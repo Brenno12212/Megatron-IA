@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import random
 import os
 import difflib
@@ -267,3 +261,4 @@ if __name__ == "__main__":
         print("Erro ao iniciar a interface gráfica:", e)
         print("Iniciando modo terminal...")
         chatbot()
+
